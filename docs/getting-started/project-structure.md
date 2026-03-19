@@ -17,5 +17,5 @@ Reference another page-level spell from a different page using a `leafgraph` abs
 ## Related topics
 See also:
 - [Configuration](configuration.md)
-- [Leafgraph](../core-concepts/nodes.md)
+- [Leafgraph Node](../core-concepts/node-types/leafgraph.md)
 - [ADR 001: Graph Model](../adr/001-graph-model.md)

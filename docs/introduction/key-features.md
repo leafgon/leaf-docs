@@ -27,4 +27,6 @@ flowchart TB
 See also:
 - [Nodes](../core-concepts/nodes.md)
 - [Edges](../core-concepts/edges.md)
+- [Node Type Pages](../core-concepts/nodes.md#node-type-index)
+- [Edge Type Pages](../core-concepts/edges.md#edge-type-index)
 - [Execution Context](../core-concepts/execution-context.md)

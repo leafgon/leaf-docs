@@ -21,4 +21,6 @@ A typical interactive app component stack:
 See also:
 - [Nodes](../core-concepts/nodes.md)
 - [Edges](../core-concepts/edges.md)
+- [Node Type Pages](../core-concepts/nodes.md#node-type-index)
+- [Edge Type Pages](../core-concepts/edges.md#edge-type-index)
 - [Frontend Overview](../frontend/overview.md)
