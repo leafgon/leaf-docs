@@ -1,10 +1,10 @@
-# Heart Node
+# Heart Suit Node
 
 ## Overview
-`heart` is a canonical element-family node type. The source corpus lists it as one of the five primary element node types.
+`heart` is a canonical suit node type. The source corpus lists it as one of the five primary element node types.
 
 ## Usage pattern
-- Use `heart` as a dedicated element node where you want clear visual/interaction separation.
+- Use `heart` as a dedicated suit node where you want clear visual/interaction separation.
 - Connect input data with dataflow edges.
 - Forward produced visualization data to `screenio`.
 
@@ -19,6 +19,6 @@ flowchart LR
 ## Related topics
 See also:
 - [Nodes](../nodes.md)
-- [Element Node](element.md)
+- [Element Module Node](element.md)
 - [ScreenIO Node](screenio.md)
 - [Dataflow Edge](../edge-types/dataflow.md)

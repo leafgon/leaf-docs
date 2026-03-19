@@ -19,6 +19,6 @@ flowchart LR
 ## Related topics
 See also:
 - [Nodes](../nodes.md)
-- [Element Node](element.md)
+- [Element Module Node](element.md)
 - [Outport Node](outport.md)
 - [Frontend Overview](../../frontend/overview.md)

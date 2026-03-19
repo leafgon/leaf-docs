@@ -2,7 +2,7 @@
 
 ## Overview
 Nodes are the primary executable units in LEAF. The corpus defines 25 node types across five categories:
-- Element nodes: `spade`, `diamond`, `heart`, `club`, `element`.
+- Element nodes: suit nodes (`spade`, `diamond`, `heart`, `club`) and the element module node (`element`).
 - Abstraction nodes: `anchor`, `loopyspell`, `spell`, `spelldef`, `lambda`, `leafgraph`.
 - Utility nodes: `unbottle`, `bottle`, `crate`, `delabel`, `label`, `mix`, `gate`, `chronos`, `config`.
 - Wizardry nodes: `leaflisp`.
@@ -56,11 +56,11 @@ flowchart TB
 ## Node type index
 
 ### Element nodes
-- [Spade Node](node-types/spade.md)
-- [Diamond Node](node-types/diamond.md)
-- [Heart Node](node-types/heart.md)
-- [Club Node](node-types/club.md)
-- [Element Node](node-types/element.md)
+- [Spade Suit Node](node-types/spade.md)
+- [Diamond Suit Node](node-types/diamond.md)
+- [Heart Suit Node](node-types/heart.md)
+- [Club Suit Node](node-types/club.md)
+- [Element Module Node](node-types/element.md)
 
 ### Abstraction nodes
 - [Anchor Node](node-types/anchor.md)

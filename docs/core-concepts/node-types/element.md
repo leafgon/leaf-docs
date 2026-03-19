@@ -1,9 +1,9 @@
-# Element Node
+# Element Module Node
 
 ## Overview
-`element` is the generic element node type used for building visualization, interaction, media, and integration payloads consumed by `screenio` or downstream processing.
+`element` is the element module node type used for building visualization, interaction, media, and integration payloads consumed by `screenio` or downstream processing.
 
-LEAF also includes four special element nodes: [Spade Node](spade.md), [Diamond Node](diamond.md), [Heart Node](heart.md), and [Club Node](club.md).
+LEAF also includes four suit nodes: [Spade Suit Node](spade.md), [Diamond Suit Node](diamond.md), [Heart Suit Node](heart.md), and [Club Suit Node](club.md).
 
 ## Usage pattern
 - Select an element subtype by intent (UI, media, or integration).
@@ -13,11 +13,11 @@ LEAF also includes four special element nodes: [Spade Node](spade.md), [Diamond 
 ## Example
 ```mermaid
 flowchart TB
-  E[Generic Element Node]
+  E[Element Module Node]
   E --> UI[text form popup mediaplayer mediainput image gnav]
   E --> Media[sound midi]
   E --> Integration[http openai directus]
-  Cards[Special Element Nodes] --> Spade[Spade]
+  Cards[Suit Nodes] --> Spade[Spade]
   Cards --> Diamond[Diamond]
   Cards --> Heart[Heart]
   Cards --> Club[Club]
@@ -45,20 +45,20 @@ flowchart LR
 - `form`: creates forms for prompting users for input.
 - `directus`: spawns and interacts with a Directus backend CMS.
 
-## Special element nodes
-`spade`, `diamond`, `heart`, and `club` are special element nodes with their own dedicated node types and docs:
-- [Spade Node](spade.md)
-- [Diamond Node](diamond.md)
-- [Heart Node](heart.md)
-- [Club Node](club.md)
+## Suit nodes
+`spade`, `diamond`, `heart`, and `club` are suit nodes:
+- [Spade Suit Node](spade.md)
+- [Diamond Suit Node](diamond.md)
+- [Heart Suit Node](heart.md)
+- [Club Suit Node](club.md)
 
 ## Related topics
 See also:
 - [Nodes](../nodes.md)
 - [Visual Elements](../../frontend/visual-elements.md)
-- [Spade Node](spade.md)
-- [Diamond Node](diamond.md)
-- [Heart Node](heart.md)
-- [Club Node](club.md)
+- [Spade Suit Node](spade.md)
+- [Diamond Suit Node](diamond.md)
+- [Heart Suit Node](heart.md)
+- [Club Suit Node](club.md)
 - [ScreenIO Node](screenio.md)
 - [Dataflow Edge](../edge-types/dataflow.md)

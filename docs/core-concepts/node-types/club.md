@@ -1,7 +1,7 @@
-# Club Node
+# Club Suit Node
 
 ## Overview
-`club` is a canonical element-family node type. The source corpus identifies it as one of the core element nodes in LEAF.
+`club` is a canonical suit node type. The source corpus identifies it as one of the core element nodes in LEAF.
 
 ## Usage pattern
 - Use `club` as a dedicated element endpoint within UI/dataflow pipelines.
@@ -19,6 +19,6 @@ flowchart LR
 ## Related topics
 See also:
 - [Nodes](../nodes.md)
-- [Element Node](element.md)
+- [Element Module Node](element.md)
 - [ScreenIO Node](screenio.md)
 - [Dataflow Edge](../edge-types/dataflow.md)
