@@ -19,4 +19,5 @@ flowchart TD
 See also:
 - [Execution Model](../architecture/execution-model.md)
 - [Loopyspell Patterns](../examples/advanced-workflow.md)
+- [Chronos Node](../core-concepts/node-types/chronos.md)
 - [Monitoring](monitoring.md)

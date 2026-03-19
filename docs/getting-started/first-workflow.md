@@ -26,5 +26,9 @@ flowchart LR
 ## Related topics
 See also:
 - [Quickstart](quickstart.md)
+- [Inport Node](../core-concepts/node-types/inport.md)
+- [Leaflisp Node](../core-concepts/node-types/leaflisp.md)
+- [ScreenIO Node](../core-concepts/node-types/screenio.md)
+- [Outport Node](../core-concepts/node-types/outport.md)
 - [Execution Model](../architecture/execution-model.md)
 - [Error Handling](../workflows/error-handling.md)

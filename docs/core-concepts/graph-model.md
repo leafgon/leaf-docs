@@ -16,7 +16,7 @@ flowchart LR
 Use this page when defining graph boundaries, refactoring large workflows, or writing ADRs.
 
 ## Example
-Encapsulate repeatable logic in `spelldef`, invoke through `spell`, and expose reusable fragments via `leafgraph`.
+Encapsulate repeatable logic in [Spelldef Node](node-types/spelldef.md), invoke through [Spell Node](node-types/spell.md), and expose reusable fragments via [Leafgraph Node](node-types/leafgraph.md).
 
 ## Related topics
 See also:

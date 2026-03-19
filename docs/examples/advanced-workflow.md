@@ -25,3 +25,6 @@ See also:
 - [Scheduling](../workflows/scheduling.md)
 - [Execution Context](../core-concepts/execution-context.md)
 - [Runtime](../core-concepts/runtime.md)
+- [Loopyspell Node](../core-concepts/node-types/loopyspell.md)
+- [Spell Node](../core-concepts/node-types/spell.md)
+- [Spelldef Node](../core-concepts/node-types/spelldef.md)
