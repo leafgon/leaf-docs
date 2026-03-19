@@ -1,7 +1,7 @@
 # FAQ
 
 ## Overview
-This FAQ captures recurring practical questions for LEAF draft users.
+This FAQ captures recurring practical questions for LEAF users.
 
 ## When to use
 Use this page for quick answers before deep troubleshooting.

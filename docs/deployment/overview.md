@@ -1,7 +1,7 @@
 # Overview
 
 ## Overview
-Deployment specifics are only partially defined in the source corpus. This draft treats deployment as moving from local graph authoring to shared/runtime execution with explicit configuration and integration boundaries.
+Deployment moves workflows from local graph authoring to shared/runtime execution with explicit configuration and integration boundaries.
 
 ## When to use
 Use this page before publishing a LEAF workflow for wider use.

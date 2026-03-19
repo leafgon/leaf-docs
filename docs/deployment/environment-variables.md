@@ -1,7 +1,7 @@
 # Environment Variables
 
 ## Overview
-Environment variable contracts are not enumerated in the corpus. This draft recommends explicit declaration of integration and auth settings, with fail-fast behavior when required values are missing.
+Environment variable contracts should explicitly declare integration and auth settings, with fail-fast behavior when required values are missing.
 
 ## When to use
 Use this page when documenting operational configuration for shared environments.

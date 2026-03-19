@@ -3,7 +3,7 @@
 ## Overview
 The API layer in LEAF is graph-modeled: request and response handling is represented explicitly through nodes and edges.
 
-In this draft, API calls are treated as integration nodes plus LEAFlisp transformations for payload normalization.
+API calls are treated as integration nodes plus LEAFlisp transformations for payload normalization.
 
 ## When to use
 Use this page when defining external service contracts or response-shaping patterns.

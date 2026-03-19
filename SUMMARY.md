@@ -1,7 +1,7 @@
 # Summary
 
 ## Overview
-This table of contents follows the LEAF docs layout and links to every draft page.
+This table of contents follows the LEAF docs layout and links to every page.
 
 ## When to use
 Use this file as the starting point for navigation and review.

@@ -3,7 +3,7 @@
 ## Overview
 Decision: adopt data-driven node evaluation with synchronous multi-input behavior by default, while providing explicit opt-in primitives for asynchronous behavior and temporary state.
 
-Status: accepted (draft).
+Status: accepted.
 
 Rationale:
 - Predictable default behavior for most workflows.

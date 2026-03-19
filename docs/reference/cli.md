@@ -1,7 +1,7 @@
 # CLI
 
 ## Overview
-No formal LEAF CLI contract is described in the source corpus. This page is a draft placeholder for future command-line tooling documentation.
+This page defines the LEAF CLI documentation surface and command-line tooling expectations.
 
 ## When to use
 Use this page when CLI behavior becomes part of the official LEAF developer workflow.

@@ -1,7 +1,7 @@
 # Contributing
 
 ## Overview
-This docs set is intentionally draft-quality and meant to evolve quickly. Keep edits scoped, source-backed, and cross-linked.
+This docs set is meant to evolve with the platform. Keep edits scoped, source-backed, and cross-linked.
 
 ## When to use
 Use this guide when proposing changes to LEAF documentation in this repository.

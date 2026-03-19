@@ -1,9 +1,9 @@
-# LEAF Documentation (Draft)
+# LEAF Documentation
 
 ## Overview
-This repository contains a first-pass documentation set for **LEAF**, a graph-based dataflow programming language with a complementary text domain powered by **LEAFlisp**.
+This repository contains documentation for **LEAF**, a graph-based dataflow programming language with a complementary text domain powered by **LEAFlisp**.
 
-The draft is sourced from the LEAF source corpus and organized into a structured documentation layout.
+This documentation is sourced from LEAF source material and organized into a structured documentation layout.
 
 ## When to use
 Use this repository when you need:

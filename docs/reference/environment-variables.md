@@ -1,7 +1,7 @@
 # Environment Variables
 
 ## Overview
-Environment variable details are not fully specified in the corpus; this page defines documentation expectations for future explicit runtime contracts.
+Environment variable documentation should define explicit runtime contracts for LEAF deployments.
 
 ## When to use
 Use this page when writing or reviewing deployment-ready LEAF docs.
