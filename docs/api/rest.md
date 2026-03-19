@@ -1,7 +1,7 @@
 # REST
 
 ## Overview
-REST is implied by HTTP element capabilities in the source corpus (GET/POST usage). This draft treats REST calls as explicit nodes in the workflow graph.
+REST is implemented through HTTP element capabilities (GET/POST usage). REST calls are represented as explicit nodes in the workflow graph.
 
 ## When to use
 Use this page when integrating external HTTP services in LEAF workflows.

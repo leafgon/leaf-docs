@@ -3,7 +3,7 @@
 ## Overview
 Decision: represent LEAF programs as graph-native dataflow systems with additional lambda and anchor relations.
 
-Status: accepted (draft).
+Status: accepted.
 
 Rationale:
 - Makes execution pathways visible and inspectable.

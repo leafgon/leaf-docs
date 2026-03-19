@@ -1,7 +1,7 @@
 # Authentication
 
 ## Overview
-API authentication mechanics are integration-specific and not exhaustively defined in the source corpus. Treat authentication as explicit workflow design, not implicit runtime behavior.
+API authentication mechanics are integration-specific. Treat authentication as explicit workflow design, not implicit runtime behavior.
 
 ## When to use
 Use this page when documenting credential expectations for external service calls.

@@ -1,7 +1,7 @@
 # Routing
 
 ## Overview
-The source corpus does not define URL routing primitives directly. In this draft, routing is represented as graph-level branching and page-level graph references (`leafgraph`).
+Routing is represented as graph-level branching and page-level graph references (`leafgraph`).
 
 ## When to use
 Use this page when modeling navigation-like behavior across views or graph pages.

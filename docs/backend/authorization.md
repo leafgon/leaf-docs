@@ -1,7 +1,7 @@
 # Authorization
 
 ## Overview
-Authorization in this draft is modeled as graph-level policy placement and config-driven defaults for app URI behavior. Exact policy engines are out of scope for the source corpus.
+Authorization is modeled as graph-level policy placement and config-driven defaults for app URI behavior.
 
 ## When to use
 Use this page when deciding where authorization checks belong in workflows.

@@ -1,7 +1,7 @@
 # Cloud Deployment
 
 ## Overview
-Cloud deployment details are not explicitly covered in the corpus. This draft frames cloud deployment as an operational envelope around LEAF workflows with clear config, auth, and observability controls.
+Cloud deployment is an operational envelope around LEAF workflows with clear config, auth, and observability controls.
 
 ## When to use
 Use this page when moving beyond single-user local authoring.

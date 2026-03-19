@@ -1,7 +1,7 @@
 # Backend Example
 
 ## Overview
-This draft backend example combines API request handling and temporary state coordination in a LEAF graph.
+This backend example combines API request handling and temporary state coordination in a LEAF graph.
 
 ## When to use
 Use this example when wiring LEAF workflows to external services.

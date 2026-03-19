@@ -1,7 +1,7 @@
 # Monitoring
 
 ## Overview
-The corpus emphasizes node-level inspectability through graph structure and node handle functions (often used for debugging). Monitoring in this draft means tracing values across edges and validating expected node firing behavior.
+LEAF emphasizes node-level inspectability through graph structure and node handle functions (often used for debugging). Monitoring means tracing values across edges and validating expected node firing behavior.
 
 ## When to use
 Use this page when validating runtime behavior in iterative development.

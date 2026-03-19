@@ -1,7 +1,7 @@
 # Common Errors
 
 ## Overview
-Frequent LEAF issues highlighted by the corpus and this draft:
+Frequent LEAF issues:
 - Mixing strings and numbers unintentionally (`+` concatenates strings).
 - Assuming async behavior when graph still waits synchronously.
 - Missing keys/index errors in `get` calls.
