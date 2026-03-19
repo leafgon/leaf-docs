@@ -26,4 +26,5 @@ flowchart LR
 See also:
 - [Edges](edges.md)
 - [Execution Context](execution-context.md)
+- [LEAFlisp Reference](../reference/leaflisp.md)
 - [Visual Elements](../frontend/visual-elements.md)

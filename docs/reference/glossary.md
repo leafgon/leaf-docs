@@ -17,6 +17,7 @@ Key terms:
 
 ## Related topics
 See also:
+- [LEAFlisp Reference](leaflisp.md)
 - [Nodes](../core-concepts/nodes.md)
 - [Edges](../core-concepts/edges.md)
 - [Architecture Overview](../architecture/overview.md)
