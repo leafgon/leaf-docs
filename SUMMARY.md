@@ -105,6 +105,7 @@ See also:
 
 - [Reference](docs/reference/glossary.md)
 - [CLI](docs/reference/cli.md)
+- [LEAFlisp](docs/reference/leaflisp.md)
 - [Configuration](docs/reference/configuration.md)
 - [Environment Variables](docs/reference/environment-variables.md)
 - [Glossary](docs/reference/glossary.md)

@@ -29,4 +29,5 @@ Suggested LEAFlisp expression:
 See also:
 - [First Workflow](first-workflow.md)
 - [Nodes](../core-concepts/nodes.md)
+- [LEAFlisp Reference](../reference/leaflisp.md)
 - [Workflows Overview](../workflows/overview.md)
