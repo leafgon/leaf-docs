@@ -1,0 +1,28 @@
+site_name: LEAF Documentation
+site_description: Documentation for the LEAF graph-based dataflow language
+site_url: https://leafgon.github.io/leaf-docs/
+repo_url: https://github.com/leafgon/leaf-docs
+repo_name: leafgon/leaf-docs
+
+docs_dir: docs
+
+theme:
+  name: material
+
+plugins:
+  - search
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - pymdownx.details
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+
+extra_javascript:
+  - https://unpkg.com/mermaid@10/dist/mermaid.min.js
+  - javascripts/mermaid-init.js
