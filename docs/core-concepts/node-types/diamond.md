@@ -1,7 +1,7 @@
-# Diamond Node
+# Diamond Suit Node
 
 ## Overview
-`diamond` is a canonical element-family node type. The source corpus lists it as a first-class node type under element nodes.
+`diamond` is a canonical suit node type. The source corpus lists it as a first-class node type under element nodes.
 
 ## Usage pattern
 - Use `diamond` when you want a distinct element node identity in your graph.
@@ -19,6 +19,6 @@ flowchart LR
 ## Related topics
 See also:
 - [Nodes](../nodes.md)
-- [Element Node](element.md)
+- [Element Module Node](element.md)
 - [ScreenIO Node](screenio.md)
 - [Dataflow Edge](../edge-types/dataflow.md)

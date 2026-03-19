@@ -9,7 +9,7 @@ Use this example when building graph-driven UI behavior.
 ## Example
 ```mermaid
 flowchart LR
-  F[Form/Element Node] --> T[Leaflisp]
+  F[Form/Element Module Node] --> T[Leaflisp]
   T --> S[ScreenIO]
 ```
 

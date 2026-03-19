@@ -1,7 +1,7 @@
-# Spade Node
+# Spade Suit Node
 
 ## Overview
-`spade` is an element node used to define how arbitrary data is visualized and interacted with in LEAF.
+`spade` is a suit node used to define how arbitrary data is visualized and interacted with in LEAF.
 
 ## Usage pattern
 - Accept structured input from dataflow or LEAFlisp transforms.
@@ -19,6 +19,6 @@ flowchart LR
 ## Related topics
 See also:
 - [Nodes](../nodes.md)
-- [Element Node](element.md)
+- [Element Module Node](element.md)
 - [ScreenIO Node](screenio.md)
 - [Dataflow Edge](../edge-types/dataflow.md)
