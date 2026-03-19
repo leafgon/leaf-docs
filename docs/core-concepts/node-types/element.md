@@ -30,7 +30,7 @@ flowchart LR
   E --> S[ScreenIO / Outport]
 ```
 
-## Generic element subtypes
+## Standard element modules
 - `text`: creates a text editor with Vim support and outputs interactive visualization data.
 - `sound`: defines sound using periodic waveforms; can process MIDI/sound inputs and emit sound output.
 - `prompt` (deprecated): prompt/form element; replaced by JSON-form patterns using the `html` element.
