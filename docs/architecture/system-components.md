@@ -1,7 +1,7 @@
 # System Components
 
 ## Overview
-From the source corpus, LEAF systems are composed of:
+LEAF systems are composed of:
 - Node categories: element, abstraction, utility, wizardry, I/O.
 - Edge types: dataflow, lambda, anchor.
 - Runtime semantics: synchronous default input joining with optional asynchronous coordination.

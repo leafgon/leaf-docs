@@ -1,7 +1,7 @@
 # Diamond Suit Node
 
 ## Overview
-`diamond` is a canonical suit node type. The source corpus lists it as a first-class node type under element nodes.
+`diamond` is a canonical suit node type and a first-class node type under element nodes.
 
 ## Usage pattern
 - Use `diamond` when you want a distinct element node identity in your graph.

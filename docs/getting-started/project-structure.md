@@ -1,7 +1,7 @@
 # Project Structure
 
 ## Overview
-At authoring time, LEAF projects are organized around graph pages and named resources. The corpus highlights naming as a first step: your nickname and app name form a URI-like identity.
+At authoring time, LEAF projects are organized around graph pages and named resources. Naming is a first step: your nickname and app name form a URI-like identity.
 
 Typical structure in this docs repo:
 - Concept docs in `docs/core-concepts/`

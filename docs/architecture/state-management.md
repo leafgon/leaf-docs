@@ -1,7 +1,7 @@
 # State Management
 
 ## Overview
-The corpus frames LEAF execution as functionally pure by default: graph execution should not mutate hidden global state. When transient state is required, `memoryio` provides runtime-local read/write storage.
+LEAF execution is functionally pure by default: graph execution should not mutate hidden global state. When transient state is required, `memoryio` provides runtime-local read/write storage.
 
 Memory stored in `memoryio` is temporary and can be lost on runtime refresh.
 

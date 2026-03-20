@@ -1,7 +1,7 @@
 # Configuration
 
 ## Overview
-The corpus explicitly mentions the `config` node for changing default authorization settings for a LEAF URI. Configuration is therefore modeled as graph-level behavior, not only external files.
+The `config` node changes default authorization settings for a LEAF URI. Configuration is therefore modeled as graph-level behavior, not only external files.
 
 ## When to use
 Use this page when adjusting runtime behavior tied to project identity, access, or environment assumptions.

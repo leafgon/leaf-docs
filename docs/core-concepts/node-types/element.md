@@ -35,7 +35,7 @@ flowchart LR
 - `sound`: defines sound using periodic waveforms; can process MIDI/sound inputs and emit sound output.
 - `prompt` (deprecated): prompt/form element; replaced by JSON-form patterns using the `html` element.
 - `popup`: wraps visualization content in a popup window.
-- `openai`: provides API-level access to OpenAI generative models (text and image usage noted in corpus).
+- `openai`: provides API-level access to OpenAI generative models for text and image workflows.
 - `midi`: provides MIDI interface input data from connected instruments.
 - `mediaplayer`: creates interactive audio/video playback visualization (for example, YouTube-sourced content).
 - `mediainput`: creates interactive visualization for image data input.

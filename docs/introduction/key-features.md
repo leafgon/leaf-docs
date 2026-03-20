@@ -1,7 +1,7 @@
 # Key Features
 
 ## Overview
-Key features captured in the source corpus:
+Key LEAF features:
 - 25 node types grouped into five categories: element, abstraction, utility, wizardry, and I/O.
 - Three edge types: dataflow, lambda, and anchor.
 - Multi-plane graph model: horizontal dataflow and vertical lambda context.

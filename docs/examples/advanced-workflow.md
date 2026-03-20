@@ -15,7 +15,7 @@ flowchart TD
   M --> O[Outport]
 ```
 
-Loopyspell usage modes from the corpus:
+Loopyspell usage modes:
 1. In-situ spell definition and casting.
 2. Iteration.
 3. Awaiting semantics.

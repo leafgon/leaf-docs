@@ -1,7 +1,7 @@
 # Local Development
 
 ## Overview
-Local development in this corpus context means iterative graph editing, immediate execution, and visual verification through `screenio`/`outport`.
+Local development means iterative graph editing, immediate execution, and visual verification through `screenio`/`outport`.
 
 ## When to use
 Use this page when developing or debugging new workflows.

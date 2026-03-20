@@ -1,7 +1,7 @@
 # Execution Model
 
 ## Overview
-Execution in LEAF is data-driven. Nodes fire when their required inputs are available. The corpus describes default synchronous behavior for multi-input nodes, plus explicit mechanisms to alter that behavior:
+Execution in LEAF is data-driven. Nodes fire when their required inputs are available. Multi-input nodes are synchronous by default, with explicit mechanisms to alter that behavior:
 - `chronos`: allows asynchronous handling of multiple incoming lines.
 - `anchor`: inactivates a graph/subgraph (similar to commenting-out behavior).
 

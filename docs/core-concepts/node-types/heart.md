@@ -1,7 +1,7 @@
 # Heart Suit Node
 
 ## Overview
-`heart` is a canonical suit node type. The source corpus lists it as one of the five primary element node types.
+`heart` is a canonical suit node type and one of the five primary element node types.
 
 ## Usage pattern
 - Use `heart` as a dedicated suit node where you want clear visual/interaction separation.

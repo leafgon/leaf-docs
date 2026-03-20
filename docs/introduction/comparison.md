@@ -3,7 +3,7 @@
 ## Overview
 LEAF differs from traditional control-flow programming by making data movement explicit through graph wiring. Compared with text-only models, LEAF surfaces execution pathways directly in the editor.
 
-Compared with many flow-based tools, the corpus positions LEAF as stronger in language-level abstraction through lambda-plane composition and LEAFlisp-backed transformations.
+Compared with many flow-based tools, LEAF is stronger in language-level abstraction through lambda-plane composition and LEAFlisp-backed transformations.
 
 ## When to use
 Use this page when deciding whether LEAF is a fit for event-driven, IoT, AI-adjacent, or interactive systems.
