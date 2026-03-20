@@ -1,7 +1,7 @@
 # Design Goals
 
 ## Overview
-The source corpus emphasizes these goals for LEAF:
+LEAF emphasizes these goals:
 - Accessibility: enable non-professional developers to author useful software.
 - Lower cognitive load: represent flow explicitly as graphs instead of hidden control flow.
 - Practical expressiveness: support abstraction, iteration, and data handling in one model.

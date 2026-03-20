@@ -3,7 +3,7 @@
 ## Overview
 Frontend behavior in LEAF is graph-driven: element nodes emit interactive visualization data, and `screenio` renders the final view payload.
 
-The corpus references element families for text editing, media, form-like interaction, and visualization.
+LEAF includes element families for text editing, media, form-like interaction, and visualization.
 
 ## When to use
 Use this page when designing user-facing flows inside LEAF graphs.

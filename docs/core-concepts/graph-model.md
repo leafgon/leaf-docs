@@ -1,7 +1,7 @@
 # Graph Model
 
 ## Overview
-LEAF programs are modeled as directed graphs of nodes and typed edges. The corpus frames LEAF as directed acyclic graph-oriented for dataflow composition, extended by lambda and anchor relations.
+LEAF programs are modeled as directed graphs of nodes and typed edges. LEAF is directed acyclic graph-oriented for dataflow composition, extended by lambda and anchor relations.
 
 ```mermaid
 flowchart LR

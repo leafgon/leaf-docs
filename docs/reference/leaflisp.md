@@ -3,7 +3,7 @@
 ## Overview
 LEAFlisp is the text-domain language used in LEAF for data shaping, branching, iteration, and transformation. It is a Lisp dialect with native JSON-friendly dictionaries (`{}`), lists (`[]`), and expression evaluation with function calls (`()`).
 
-This reference consolidates all LEAFlisp functions and operators described in the source corpus, with usage patterns and examples.
+This reference consolidates LEAFlisp functions and operators with usage patterns and examples.
 
 ## When to use
 Use LEAFlisp when graph wiring alone is not enough, especially for:

@@ -1,7 +1,7 @@
 # Error Handling
 
 ## Overview
-Most workflow errors in the corpus context come from:
+Most workflow errors come from:
 - Type mismatches in LEAFlisp expressions (for example string vs number).
 - Missing dictionary keys or list index misuse.
 - Invalid assumptions about synchronous/asynchronous arrival.

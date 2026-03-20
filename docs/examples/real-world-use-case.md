@@ -1,7 +1,7 @@
 # Real World Use Case
 
 ## Overview
-The source corpus positions LEAF for event-heavy domains such as IoT, AI-assisted workflows, and interactive systems where explicit data routing improves maintainability.
+LEAF works well for event-heavy domains such as IoT, AI-assisted workflows, and interactive systems where explicit data routing improves maintainability.
 
 ## When to use
 Use this example template when documenting production use cases.

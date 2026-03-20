@@ -3,7 +3,7 @@
 ## Overview
 This repository contains documentation for **LEAF**, a graph-based dataflow programming language with a complementary text domain powered by **LEAFlisp**.
 
-This documentation is sourced from LEAF source material and organized into a structured documentation layout.
+This documentation is organized into a structured layout for LEAF.
 
 ## When to use
 Use this repository when you need:

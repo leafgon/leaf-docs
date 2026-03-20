@@ -1,7 +1,7 @@
 # Overview
 
 ## Overview
-API interaction in LEAF is represented as graph wiring around integration nodes and LEAFlisp transforms. The source corpus references HTTP and provider-oriented element patterns.
+API interaction in LEAF is represented as graph wiring around integration nodes and LEAFlisp transforms, including HTTP and provider-oriented element patterns.
 
 ## When to use
 Use this page when documenting service boundaries and request/response flow in LEAF.

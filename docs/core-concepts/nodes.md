@@ -1,7 +1,7 @@
 # Nodes
 
 ## Overview
-Nodes are the primary executable units in LEAF. The corpus defines 25 node types across five categories:
+Nodes are the primary executable units in LEAF. LEAF defines 25 node types across five categories:
 - Element nodes: suit nodes (`spade`, `diamond`, `heart`, `club`) and the element module node (`element`).
 - Abstraction nodes: `anchor`, `loopyspell`, `spell`, `spelldef`, `lambda`, `leafgraph`.
 - Utility nodes: `unbottle`, `bottle`, `crate`, `delabel`, `label`, `mix`, `gate`, `chronos`, `config`.

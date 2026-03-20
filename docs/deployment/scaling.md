@@ -1,7 +1,7 @@
 # Scaling
 
 ## Overview
-Scaling LEAF workflows starts with graph clarity: modular spells, explicit boundaries, and controlled asynchronous behavior. Runtime scaling mechanisms are implementation-specific and not fully defined in the corpus.
+Scaling LEAF workflows starts with graph clarity: modular spells, explicit boundaries, and controlled asynchronous behavior. Runtime scaling mechanisms are implementation-specific and not fully defined in this documentation.
 
 ## When to use
 Use this page when workflows or usage volume grows beyond initial assumptions.

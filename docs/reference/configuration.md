@@ -1,7 +1,7 @@
 # Configuration
 
 ## Overview
-Configuration in this corpus includes graph-native controls such as the `config` node and integration-specific settings passed through workflow inputs.
+Configuration includes graph-native controls such as the `config` node and integration-specific settings passed through workflow inputs.
 
 ## When to use
 Use this page as a canonical index of runtime and integration configuration expectations.

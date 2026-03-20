@@ -1,8 +1,8 @@
 # Overview
 
 ## Overview
-Backend-facing behavior in LEAF is represented through graph nodes and external integrations rather than hidden service code in this corpus snapshot. The most explicit backend-adjacent primitives are:
-- API/integration element nodes (for example HTTP, OpenAI, Directus in the corpus narrative).
+Backend-facing behavior in LEAF is represented through graph nodes and external integrations rather than hidden service code. The most explicit backend-adjacent primitives are:
+- API/integration element nodes (for example HTTP, OpenAI, and Directus).
 - Runtime-local storage with `memoryio`.
 - Configuration with `config` for URI-level authorization settings.
 

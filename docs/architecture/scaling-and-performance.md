@@ -1,7 +1,7 @@
 # Scaling And Performance
 
 ## Overview
-The corpus emphasizes readability and maintainability as performance enablers for human teams. Practical scaling guidance for LEAF workflows includes:
+Readability and maintainability are performance enablers for human teams. Practical scaling guidance for LEAF workflows includes:
 - Keep graphs modular with spell/spelldef abstractions.
 - Use anchor edges to isolate inactive branches during development and staged rollouts.
 - Use chronos only where asynchronous behavior is necessary.

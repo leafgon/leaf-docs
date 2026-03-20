@@ -1,7 +1,7 @@
 # Installation
 
 ## Overview
-The source corpus indicates LEAF is authored through the LEAFgon platform. Initial setup is account-based: create a membership account, then create a project URI from your nickname and app name.
+LEAF is authored through the LEAFgon platform. Initial setup is account-based: create a membership account, then create a project URI from your nickname and app name.
 
 ## When to use
 Use this page when onboarding a new developer or setting up a new LEAF project.

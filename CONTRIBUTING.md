@@ -9,7 +9,7 @@ Use this guide when proposing changes to LEAF documentation in this repository.
 ## Example
 Recommended workflow:
 1. Pick one page or one tightly scoped topic.
-2. Update content using the agreed LEAF source material (or clearly label assumptions).
+2. Update content using agreed LEAF documentation conventions (or clearly label assumptions).
 3. Add or update cross-links.
 4. Keep Mermaid diagrams simple and renderable.
 

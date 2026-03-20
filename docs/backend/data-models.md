@@ -1,7 +1,7 @@
 # Data Models
 
 ## Overview
-The corpus highlights JSON-native modeling in LEAFlisp. Dictionaries and lists are first-class values for passing structured data across nodes.
+LEAFlisp uses JSON-native modeling. Dictionaries and lists are first-class values for passing structured data across nodes.
 
 ## When to use
 Use this page when defining payload shapes shared across workflow boundaries.

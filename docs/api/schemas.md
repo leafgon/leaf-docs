@@ -1,7 +1,7 @@
 # Schemas
 
 ## Overview
-Schema handling in this corpus is JSON-centric via LEAFlisp dictionaries/lists and key-based access (`get`, `keys`, `values`).
+Schema handling is JSON-centric via LEAFlisp dictionaries/lists and key-based access (`get`, `keys`, `values`).
 
 ## When to use
 Use this page when defining or validating payload structure in workflows.

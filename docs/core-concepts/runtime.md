@@ -1,7 +1,7 @@
 # Runtime
 
 ## Overview
-The LEAF runtime evaluates graph nodes according to incoming data availability and graph connectivity. Key runtime characteristics from the corpus:
+The LEAF runtime evaluates graph nodes according to incoming data availability and graph connectivity. Key runtime characteristics include:
 - Stateless by default (functional-purity leaning).
 - Optional temporary state through `memoryio`.
 - Synchronous multi-input behavior unless `chronos` is introduced.

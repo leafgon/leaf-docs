@@ -1,7 +1,7 @@
 # Glossary
 
 ## Overview
-Canonical LEAF terms from the source corpus.
+Canonical LEAF terms used across this documentation.
 
 ## When to use
 Use this page for quick terminology alignment during design and review.
